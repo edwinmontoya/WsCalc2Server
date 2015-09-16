@@ -11,7 +11,7 @@ import logic.Calculator2;
 
 /**
  *
- * @author emontoya
+ * @author Edwin Montoya - emontoya@eafit.edu.co - 2015
  */
 @WebService(serviceName = "wscalc2")
 public class wscalc2 {

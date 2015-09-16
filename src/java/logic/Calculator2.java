@@ -6,7 +6,7 @@ package logic;
 
 /**
  *
- * @author emontoya
+ * @author Edwin Montoya - emontoya@eafit.edu.co - 2015
  */
 public class Calculator2 {
     
